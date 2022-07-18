@@ -1,1 +1,1 @@
-# Synchronized-Stack-w-Proccesses
+# Synchronized-Stack-w-Processes
